@@ -6,9 +6,6 @@ Java'nın standart kütüphanesi kullanılarak geliştirilmiş, 1989 portunda ç
 - JDK 17 veya üzeri (önerilen: JDK 21)
 - IntelliJ IDEA veya terminal
 
-## Kişisel bilgileri düzenleme
-`src/ProfilePage.java` dosyasındaki `FULL_NAME` ve `STUDENT_NUMBER` sabitlerini kendi bilgilerinizle değiştirin. Biyografi metnini de kendinize göre güncelleyin.
-
 ## IntelliJ IDEA ile çalıştırma
 1. IntelliJ IDEA'da bu klasörü proje olarak açın.
 2. Project SDK olarak JDK 17 veya üzerini seçin.
